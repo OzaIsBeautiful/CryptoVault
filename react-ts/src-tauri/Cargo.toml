@@ -1,0 +1,26 @@
+[package]
+name = "cryptovault"
+version = "0.1.0"
+description = "Application de cryptographie sécurisée"
+authors = ["CryptoVault Team"]
+license = ""
+repository = ""
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[build-dependencies]
+tauri-build = { version = "2.0.0-alpha.12", features = [] }
+
+[dependencies]
+tauri = { version = "2.0.0-alpha.12", features = [] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+ring = "0.17.7"
+data-encoding = "2.4.0"
+
+[features]
+# this feature is used for production builds or when `devpath` points to the filesystem
+# DO NOT REMOVE!!
+custom-protocol = ["tauri/custom-protocol"]
+
