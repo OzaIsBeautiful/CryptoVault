@@ -14,8 +14,7 @@ import {
   Divider,
   Alert,
   Snackbar,
-  InputAdornment,
-  LinearProgress
+  CircularProgress
 } from '@mui/material';
 import ContentCopyIcon from '@mui/icons-material/ContentCopy';
 import FingerprintIcon from '@mui/icons-material/Fingerprint';
@@ -273,7 +272,7 @@ const HashFunction: React.FC = () => {
         
         {isProcessing && (
           <Grid item xs={12}>
-            <LinearProgress sx={{ mt: 2 }} />
+            <CircularProgress sx={{ mt: 2 }} />
           </Grid>
         )}
         

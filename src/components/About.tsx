@@ -18,7 +18,6 @@ import FingerprintIcon from '@mui/icons-material/Fingerprint';
 import DesktopWindowsIcon from '@mui/icons-material/DesktopWindows';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import AppsIcon from '@mui/icons-material/Apps';
-import CodeIcon from '@mui/icons-material/Code';
 import PersonIcon from '@mui/icons-material/Person';
 
 const About: React.FC = () => {

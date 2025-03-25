@@ -5,9 +5,6 @@ import {
   TextField, 
   Button, 
   Grid, 
-  FormControl,
-  Select,
-  MenuItem,
   Paper,
   Divider,
   Alert,
@@ -21,7 +18,6 @@ import ContentCopyIcon from '@mui/icons-material/ContentCopy';
 import LockIcon from '@mui/icons-material/Lock';
 import LockOpenIcon from '@mui/icons-material/LockOpen';
 import KeyIcon from '@mui/icons-material/Key';
-import CryptoJS from 'crypto-js';
 
 // Pour JSEncrypt, nous l'importons comme ceci (c'est une bibliothèque CommonJS)
 import JSEncrypt from 'jsencrypt';

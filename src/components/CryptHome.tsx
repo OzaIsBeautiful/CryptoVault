@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link as RouterLink } from 'react-router-dom';
-import { Box, Typography, Grid, Card, CardContent, CardActions, Button, CardMedia, Link } from '@mui/material';
+import { Box, Typography, Grid, Card, CardContent, CardActions, Button, Link } from '@mui/material';
 import LockIcon from '@mui/icons-material/Lock';
 import EnhancedEncryptionIcon from '@mui/icons-material/EnhancedEncryption';
 import FingerprintIcon from '@mui/icons-material/Fingerprint';
