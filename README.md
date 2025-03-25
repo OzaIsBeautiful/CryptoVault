@@ -5,6 +5,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Alpha-orange.svg)]()
+[![Release](https://img.shields.io/badge/Release-v0.1.0-brightgreen.svg)](https://github.com/OzaIsBeautiful/CryptoVault/releases)
 
 > 🚀 A secure desktop cryptography application built with Tauri, React and TypeScript.
 > 
@@ -18,6 +19,15 @@ CryptoVault is a powerful cryptography application that provides various encrypt
 
 ### Repository
 Find the latest version on GitHub: [https://github.com/OzaIsBeautiful/CryptoVault.git](https://github.com/OzaIsBeautiful/CryptoVault.git)
+
+## 📥 Download
+
+Ready-to-use installers are available for Windows:
+
+- [📦 Download Windows Installer (.exe)](https://github.com/OzaIsBeautiful/CryptoVault/releases/latest/download/CryptoVault_0.1.0_x64-setup.exe)
+- [📦 Download Windows MSI Package (.msi)](https://github.com/OzaIsBeautiful/CryptoVault/releases/latest/download/CryptoVault_0.1.0_x64_en-US.msi)
+
+Or check out all releases on the [releases page](https://github.com/OzaIsBeautiful/CryptoVault/releases).
 
 ## ✨ Features
 
